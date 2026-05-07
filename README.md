@@ -167,5 +167,5 @@ This project demonstrates how AI-powered OCR solutions like Nanonets can transfo
 
 ## 👩‍💼 Author
 
-**SPARSH KHETARPAL**
+**Saransh kamboj**
 MBA Finance Student | AI in Finance Enthusiast
